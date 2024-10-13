@@ -59,6 +59,7 @@ Don't worry :slightly_smiling_face: Just hit Alt-K to generate /Drivers/CMCIS/ a
 * [Uranium Radiation Properties](https://www.wise-uranium.org/rup.html) (WISE Uranium Project)
 * [WISE (World Information Service on Energy)](https://www.wiseinternational.org/)
 * [Radium Girls & the Failure of Unregulated Capitalism](https://www.youtube.com/watch?v=Y3jbY5NSVWU) (Meromorphic)
+* [Bell's theorem](https://en.wikipedia.org/wiki/Bell%27s_theorem) (Wikipedia)
 
 # The test suite (exemplary implementations)
 * [A Statistical Test Suite for Random and Pseudorandom Number Generators for Cryptographic Applications](https://csrc.nist.gov/pubs/sp/800/22/r1/upd1/final) (NIST)
